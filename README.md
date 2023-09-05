@@ -1,2 +1,3 @@
 # Django-sample-Project.
-Django Project sample like 
+Django Project sample 
+
